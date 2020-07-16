@@ -17,3 +17,7 @@ dependencies:
 lottie: ^0.4.1
 2.depois e so dar um flutter pub get para atualizar
 3. e main.dart so colocar o caminho import 'package:lottie/lottie.dart'; como no gif acima caso queira mais detalhes acesse https://pub.dev/packages/lottie
+
+
+
+caso isso te ajudou de uma estrelinha nesse repositorio muito obrigado !!!, feito com carinho por < h1>Keven Escovedo</h1>
