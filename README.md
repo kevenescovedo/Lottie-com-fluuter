@@ -20,4 +20,4 @@ lottie: ^0.4.1
 
 
 
-caso isso te ajudou de uma estrelinha nesse repositorio muito obrigado !!!, feito com carinho por < h1>Keven Escovedo</h1>
+caso isso te ajudou de uma estrelinha nesse repositorio muito obrigado !!!, feito com carinho por <h1 style="color:blue;">Keven Escovedo</h1>
